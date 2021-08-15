@@ -1,6 +1,6 @@
 # LowCodeDocumentationGuidelines
 
-![header-image](docs/media/undraw_Setup_wizard_re_nday.png)
+![header-image](media/undraw_Setup_wizard_re_nday.png)
 
 Space for #PowerAddicts to collaborate on Documentation Guidelines for Low Code technologies including:
 
